@@ -14,3 +14,4 @@ By leveraging this dashboard responsibly, HR teams can gain valuable insights to
 
 Conclusion
 - This anonymized HR dashboard empowers HR teams to make informed decisions that benefit both the company and its valued employees while maintaining the highest ethical standards of data privacy.
+![image](https://myoctocat.com/assets/images/base-octocat.svg)
