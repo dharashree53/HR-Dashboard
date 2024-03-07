@@ -13,4 +13,4 @@ By leveraging this dashboard responsibly, HR teams can gain valuable insights to
 - Promote diversity and inclusion: Ensure a balanced workforce by analyzing key demographics.
 
 Conclusion
-This anonymized HR dashboard empowers HR teams to make informed decisions that benefit both the company and its valued employees while maintaining the highest ethical standards of data privacy.
+- This anonymized HR dashboard empowers HR teams to make informed decisions that benefit both the company and its valued employees while maintaining the highest ethical standards of data privacy.
