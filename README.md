@@ -1,4 +1,15 @@
 # HR Dashboard
+![image](https://github.com/dharashree53/HR-Dashboard/assets/81587978/664c08a2-f241-4e18-bb8f-0fd4011bf8fd)
+
+
+
+
+
+
+
+
+
+
 This HR dashboard offers valuable insights into workforce trends while keeping employee privacy at the forefront. It visualizes key metrics like:
 
 - Attrition rates: Identify areas for improvement in retention strategies. (Visualized by department, age, and optionally, gender, adhering to privacy regulations)
@@ -14,4 +25,9 @@ By leveraging this dashboard responsibly, HR teams can gain valuable insights to
 
 Conclusion
 - This anonymized HR dashboard empowers HR teams to make informed decisions that benefit both the company and its valued employees while maintaining the highest ethical standards of data privacy.
-![image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+
+
